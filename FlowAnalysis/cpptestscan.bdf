@@ -1,5 +1,5 @@
 ------- cpptestscan v.10.6.3.20240229B3924 (cpptesttrace) -------
-working_dir=C:\env\20232\HostWin\JenkinsTest\Demo\UT\Tutorial_UT\workspace_ut\FlowAnalysis
+working_dir=C:\env\20232\HostWin\JenkinsTest\tutorial_ut\FlowAnalysis
 project_name=FlowAnalysis
 arg=C:\cygwin64\bin\gcc.exe
 arg=dbutil.c
