@@ -1,0 +1,5 @@
+------- cpptestscan v.10.6.3.20240229B3924 (cpptesttrace) -------
+working_dir=C:\env\20232\HostWin\JenkinsTest\Demo\UT\Tutorial_UT\workspace_ut\Sensor
+project_name=Sensor
+arg=C:\cygwin64\bin\gcc.exe
+arg=sensor.c

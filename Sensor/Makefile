@@ -1,0 +1,2 @@
+all:
+	$(CC) sensor.c
