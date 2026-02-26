@@ -8,6 +8,7 @@ set PROJECT_DIR=%WORKSPACE_DIR%\%PROJECT_NAME%
 
 cpptestcli ^
 -data %WORKSPACE_DIR% ^
+-bdf %WORKSPACE_DIR%\%PROJECT_NAME%\cpptestscan.bdf ^
 -resource %PROJECT_NAME% ^
 -config "builtin://Run Unit Tests (File Scope)" ^
 -report %PROJECT_DIR%\report_ut ^
