@@ -10,6 +10,11 @@ int mytest(int val)
 		ret = val;
 	}
 
+	if (val == 1000)
+	{
+		return -1;
+	}
+
 	return ret;
 }
 

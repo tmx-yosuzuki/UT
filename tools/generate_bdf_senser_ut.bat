@@ -2,7 +2,7 @@ set BUILD_TOOL_CHAIN_DIR=C:\cygwin64
 set CPPTEST_DIR=C:\Parasoft\20252\cpptest
 set PATH=%BUILD_TOOL_CHAIN_DIR%\bin;%CPPTEST_DIR%\bin;%PATH%
 
-set WORKSPACE_DIR=%~dp0..\
+set WORKSPACE_DIR=%~dp0..\cpptest_workspace
 set PROJECT_NAME=Sensor
 set PROJECT_DIR=%WORKSPACE_DIR%\%PROJECT_NAME%
 
