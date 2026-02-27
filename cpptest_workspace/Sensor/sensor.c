@@ -18,3 +18,7 @@ int mytest(int val)
 	return ret;
 }
 
+int main(void)
+{
+}
+
