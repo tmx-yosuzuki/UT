@@ -20,7 +20,7 @@ EXTERN_C_LINKAGE int TestSuite_sensor_c_acb6c5cb_callTest(const char*);
 CPPTEST_TEST_SUITE(TestSuite_sensor_c_acb6c5cb);
         CPPTEST_TEST_SUITE_SETUP(TestSuite_sensor_c_acb6c5cb_testSuiteSetUp);
         CPPTEST_TEST_SUITE_TEARDOWN(TestSuite_sensor_c_acb6c5cb_testSuiteTearDown);
-CPPTEST_TEST_DS(TestSuite_sensor_c_acb6c5cb_test_case, CPPTEST_DS("__ds_step_autogen_b9a0fabd_193b4dc9c69"));
+CPPTEST_TEST_DS(TestSuite_sensor_c_acb6c5cb_test_case, CPPTEST_DS("__ds_step_autogen_b9a0fabd_19c9dd91c86"));
 CPPTEST_TEST_SUITE_END();
         
 
@@ -87,6 +87,10 @@ void TestSuite_sensor_c_acb6c5cb_test_case()
             <row>
                 <val>3</val>
                 <val>3</val>
+            </row>
+            <row>
+                <val>4</val>
+                <val>5</val>
             </row>
             <ext>false</ext>
             <extname/>
