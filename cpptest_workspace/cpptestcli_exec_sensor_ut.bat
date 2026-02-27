@@ -11,7 +11,7 @@ cpptestcli ^
 -bdf %WORKSPACE_DIR%\%PROJECT_NAME%\cpptestscan.bdf ^
 -resource %PROJECT_NAME% ^
 -config "builtin://Run Unit Tests (File Scope)" ^
--property report.contexts_details=true report.contexts_details=true ^
+-settings %WORKSPACE_DIR%\settings.properties ^
 -report %PROJECT_DIR%\report_ut ^
 -showdetails ^
 -appconsole stdout
