@@ -13,5 +13,6 @@ cpptestcli ^
 -config "builtin://Run Unit Tests (File Scope)" ^
 -settings %WORKSPACE_DIR%\settings.properties ^
 -report %PROJECT_DIR%\report_ut ^
+-property report.additional.report.dir=%PROJECT_DIR%\report_additional ^
 -showdetails ^
 -appconsole stdout
